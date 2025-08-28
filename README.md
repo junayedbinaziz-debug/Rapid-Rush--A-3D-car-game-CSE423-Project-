@@ -1,1 +1,1 @@
-# Rapid-Rush--A-3D-car-game-CSE423-Project-
+# Rapid-Rush--A-3D-car-game-CSE423-Project
