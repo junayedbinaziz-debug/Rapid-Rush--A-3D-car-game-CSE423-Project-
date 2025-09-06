@@ -7,7 +7,7 @@ import random
 
 # --- Game variables ---
 GRID_LENGTH = 600
-fuels = 1
+fuels = 50
 score = 0
 life = 5
 
